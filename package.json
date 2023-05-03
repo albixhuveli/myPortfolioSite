@@ -22,8 +22,28 @@
     ]
   },
   "devDependencies": {
+    "acorn-dynamic-import": "^4.0.0",
     "autoprefixer": "^9.8.6",
+    "babel-eslint": "^10.1.0",
+    "browserslist": "^4.21.5",
+    "chokidar": "^3.5.3",
+    "circular-json": "^0.5.9",
+    "core-js": "^3.30.1",
+    "flatten": "^1.0.3",
+    "har-validator": "^5.1.5",
+    "html-webpack-plugin": "^5.5.1",
     "postcss": "^7.0.36",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "resolve-url": "^0.2.1",
+    "sane": "^5.0.1",
+    "source-map-resolve": "^0.6.0",
+    "source-map-url": "^0.4.1",
+    "svgo": "^3.0.2",
+    "sw-precache": "^5.2.1",
+    "sw-toolbox": "^3.6.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
+    "urix": "^0.1.0",
+    "uuid": "^9.0.0"
   }
 }
